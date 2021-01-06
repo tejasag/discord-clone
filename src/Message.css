@@ -1,0 +1,25 @@
+.message {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    color: white;
+}
+
+.message:hover {
+    background-color: rgb(46, 45, 45);
+}
+
+.message__info {
+    margin-left: 20px;
+    flex: 1;
+}
+
+.message__timestamp {
+    color: gray;
+    margin-left: 20px;
+    font-size: x-small;
+}
+
+.message__deleteIcon {
+    color: red;
+}
