@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyANjSGJKIKNyzJPlm8PTMsfIgCmr6ETz-Q",
+  apiKey: "sucker",
   authDomain: "discord-clone-b7429.firebaseapp.com",
   databaseURL: "https://discord-clone-b7429.firebaseio.com",
   projectId: "discord-clone-b7429",
